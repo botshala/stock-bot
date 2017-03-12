@@ -1,0 +1,11 @@
+Django==1.7
+gunicorn==19.6.0
+numpy
+scipy
+requests
+yahoo_finance
+scikit-learn
+bs4
+lxml
+pandas
+pandas_datareader
